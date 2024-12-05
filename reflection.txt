@@ -1,0 +1,5 @@
+While browsing the internet, I came across a geometric illusion that was perfect for this assignment. After tweaking the colors a bit, I decided to turn it into a simple "swimming" game where the character and the background move with the mouse. Additionally, by clicking the screen, you can switch colors, making it look like waves in a swimming pool.
+
+I think this was a really fun experiment. The biggest challenge was changing the small crosses on the diagonal and making the entire canvas follow the mouse movement. For this assignment, I didn't really use anything new (most of it I had used before), but it did make me realize the importance of push() and pop(). I especially appreciated this after debugging for half an hour and finding that adding a simple push() and pop() solved many issues.
+
+Overall, I think this was a really interesting experiment. This concept could easily be applied in real life—whether as a simple game or as a fun visual illusion for swimming pool promotions.
